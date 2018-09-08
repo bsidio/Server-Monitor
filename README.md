@@ -15,7 +15,7 @@ Check out the demo <a href="http://status.bsid.io/">http://status.bsid.io/</a>
 
 1.  Clone the repository
   ```
-  git clone https://github.com/HeadTalker/uptime-robot.git 
+  git clone https://github.com/bsidio/Server-Monitor.git
   ```
 
 2.  Copy config-sample.php name it config.php
